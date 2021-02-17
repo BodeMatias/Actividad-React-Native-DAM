@@ -1,1 +1,4 @@
-Actividad-React-Native-DAM
+Integrantes:
+	- Bode, Matias
+	- Busso, Francisco
+	- Ferraro Trivelli, Giovani 
