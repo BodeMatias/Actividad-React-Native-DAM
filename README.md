@@ -1,4 +1,4 @@
-Integrantes:
-	- Bode, Matias
-	- Busso, Francisco
-	- Ferraro Trivelli, Giovani 
+Integrantes:  
+- Bode, Matias  
+- Busso, Francisco  
+- Ferraro Trivelli, Giovani  
